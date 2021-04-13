@@ -34,58 +34,57 @@ this repository will be updated till all topics are over so stay tuned....😉
 27. Constructors 👷
 28. Variable scope 🌍
 29. Overloaded constructors 🍕
-30. toString method 🎉
-31. Array of objects 🍱
-32. Object passing 🏬
-33. Static keyword ⚡
-34. Inheritance 👪
-35. Method overriding 🙅‍♂️
-36. Super keyword 🦸‍♂️
-37. Abstraction 👻
-38. Access modifiers 🔒
-39. Encapsulation 💊
-40. Copy objects 🖨️
-41. Interface 🦅
-42. Polymorphism 🏁
-43. Dynamic polymorphism ✨
-44. Exception handling ⚠️
-45. File class 📁
-46. FileWriter (write to a file) 📝
-47. FileReader (read a file) 📖
-48. Audio 🔊
-49. GUI 🖼️
-50. Labels 👨‍💻
-51. Panels 🟥
-52. Buttons 🛎️
-53. BorderLayout 🧭
-54. FlowLayout 🌊
-55. GridLayout 🔳
-56. LayeredPane 📚
-57. Open a new GUI window 🗔
-58. JOptionPane 🛑
-59. Textfield 📛
-60. Checkbox ✔️
-61. Radio buttons 🔘
-62. Combobox 📑
-63. Slider 🌡️
-64. Progress bar 📊
-65. Menubar 🗄️
-66. Select a file 🔎
-67. Color chooser 🎨
-68. KeyListener 🚀
-69. MouseListener 🖱️
-70. Drag and drop 👈
-71. Key bindings ⌨️
-72. 2D graphics 🖍️
-73. 2D animation 👾
-74. Generics ❓
-75. Serialization 🥣
-76. TimerTask ⌚
-77. Threads 🧵
-78. Multithreading 🧶
-79. Packages 📦
-80. Compile/run command prompt 💽
-81. Executable (.jar) ☕
+30. Array of objects 🍱
+31. Object passing 🏬
+32. Static keyword ⚡
+33. Inheritance 👪
+34. Method overriding 🙅‍♂️
+35. Super keyword 🦸‍♂️
+36. Abstraction 👻
+37. Access modifiers 🔒
+38. Encapsulation 💊
+39. Copy objects 🖨️
+40. Interface 🦅
+41. Polymorphism 🏁
+42. Dynamic polymorphism ✨
+43. Exception handling ⚠️
+44. File class 📁
+45. FileWriter (write to a file) 📝
+46. FileReader (read a file) 📖
+47. Audio 🔊
+48. GUI 🖼️
+49. Labels 👨‍💻
+50. Panels 🟥
+51. Buttons 🛎️
+52. BorderLayout 🧭
+53. FlowLayout 🌊
+54. GridLayout 🔳
+55. LayeredPane 📚
+56. Open a new GUI window 🗔
+57. JOptionPane 🛑
+58. Textfield 📛
+59. Checkbox ✔️
+60. Radio buttons 🔘
+61. Combobox 📑
+62. Slider 🌡️
+63. Progress bar 📊
+64. Menubar 🗄️
+65. Select a file 🔎
+66. Color chooser 🎨
+67. KeyListener 🚀
+68. MouseListener 🖱️
+69. Drag and drop 👈
+70. Key bindings ⌨️
+71. 2D graphics 🖍️
+72. 2D animation 👾
+73. Generics ❓
+74. Serialization 🥣
+75. TimerTask ⌚
+76. Threads 🧵
+77. Multithreading 🧶
+78. Packages 📦
+79. Compile/run command prompt 💽
+80. Executable (.jar) ☕
 
 
 ## Credits 
